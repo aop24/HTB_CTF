@@ -1,4 +1,4 @@
-```shell
+``` shell
 >sudo vim /etc/hosts
 [sudo] password for kali: 
 ❯ dirsearch -u http://analytical.htb/
